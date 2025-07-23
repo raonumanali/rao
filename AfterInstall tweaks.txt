@@ -1,0 +1,19 @@
+powercfg --list -- powercfg.exe /setactive
+change name 
+features
+
+UAC
+delivery Optimization
+privacy -- app permissions
+file extensions hidden files
+privacy security -- general
+                    search permission
+end task
+
+
+accessibility -- visual effects
+                 mouse pointer
+control panel --region --time
+personalization start
+apps startup
+create shortcut windows tools in control panel right click
